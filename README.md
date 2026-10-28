@@ -17,7 +17,7 @@ An educational, unofficial SAUDIA-inspired 3D aircraft experience using A-Frame 
 7. Open the site on a phone, grant camera permission, and aim at the target picture shown on a *different* screen or printed sheet. Test in good lighting.
 
 ## 3D preview
-Use the “استكشفي الطائرة 3D” button. Drag to rotate, pinch or use buttons to zoom, select parts for information. The preview requires an internet connection for the A-Frame JavaScript CDN.
+Use the “استكشاف الطائرة 3D” button. Drag to rotate, pinch or use buttons to zoom, select parts for information. The preview requires an internet connection for the A-Frame JavaScript CDN.
 
 ## Notes
 - `targets.mind` is NOT included, so camera-based image tracking will not start until the compilation step is completed.
